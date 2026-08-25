@@ -1,0 +1,17 @@
+{
+  "en": {
+    "adjectives": ["Silent", "Broken", "Golden", "Last", "Hidden", "Crimson", "Frozen", "Wild", "Lost", "Endless", "Dark", "Burning", "Quiet", "Distant", "Savage"],
+    "nouns": ["Falcon", "Kingdom", "Shadow", "Horizon", "Legacy", "Storm", "Empire", "Whisper", "Voyage", "Rebellion", "Symphony", "Wolf", "Mirror", "Harbor", "Prophecy"],
+    "genres": ["Action", "Comedy", "Drama", "Horror", "Sci-Fi", "Romance", "Thriller", "Fantasy", "Documentary", "Adventure"]
+  },
+  "de": {
+    "adjectives": ["Stille", "Zerbrochene", "Goldene", "Letzte", "Verborgene", "Purpurrote", "Gefrorene", "Wilde", "Verlorene", "Endlose", "Dunkle", "Brennende", "Ferne", "Wilde", "Eiskalte"],
+    "nouns": ["Falke", "Königreich", "Schatten", "Horizont", "Vermächtnis", "Sturm", "Imperium", "Flüstern", "Reise", "Rebellion", "Symphonie", "Wolf", "Spiegel", "Hafen", "Prophezeiung"],
+    "genres": ["Action", "Komödie", "Drama", "Horror", "Science-Fiction", "Romantik", "Thriller", "Fantasy", "Dokumentarfilm", "Abenteuer"]
+  },
+  "uk": {
+    "adjectives": ["Тихий", "Зламаний", "Золотий", "Останній", "Прихований", "Багряний", "Крижаний", "Дикий", "Загублений", "Нескінченний", "Темний", "Палаючий", "Далекий", "Суворий", "Забутий"],
+    "nouns": ["Сокіл", "Королівство", "Тінь", "Горизонт", "Спадщина", "Буря", "Імперія", "Шепіт", "Подорож", "Повстання", "Симфонія", "Вовк", "Дзеркало", "Гавань", "Пророцтво"],
+    "genres": ["Бойовик", "Комедія", "Драма", "Жахи", "Фантастика", "Романтика", "Трилер", "Фентезі", "Документальний", "Пригоди"]
+  }
+}

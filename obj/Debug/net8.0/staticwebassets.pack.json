@@ -1,0 +1,65 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\forCoding\\Itransaction InternTasks\\MovieStore\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "E:\\forCoding\\Itransaction InternTasks\\MovieStore\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "E:\\forCoding\\Itransaction InternTasks\\MovieStore\\wwwroot\\js\\api.js",
+      "PackagePath": "staticwebassets\\js\\api.js"
+    },
+    {
+      "Id": "E:\\forCoding\\Itransaction InternTasks\\MovieStore\\wwwroot\\js\\detail.js",
+      "PackagePath": "staticwebassets\\js\\detail.js"
+    },
+    {
+      "Id": "E:\\forCoding\\Itransaction InternTasks\\MovieStore\\wwwroot\\js\\export.js",
+      "PackagePath": "staticwebassets\\js\\export.js"
+    },
+    {
+      "Id": "E:\\forCoding\\Itransaction InternTasks\\MovieStore\\wwwroot\\js\\gallery.js",
+      "PackagePath": "staticwebassets\\js\\gallery.js"
+    },
+    {
+      "Id": "E:\\forCoding\\Itransaction InternTasks\\MovieStore\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "E:\\forCoding\\Itransaction InternTasks\\MovieStore\\wwwroot\\js\\rng.js",
+      "PackagePath": "staticwebassets\\js\\rng.js"
+    },
+    {
+      "Id": "E:\\forCoding\\Itransaction InternTasks\\MovieStore\\wwwroot\\js\\table.js",
+      "PackagePath": "staticwebassets\\js\\table.js"
+    },
+    {
+      "Id": "E:\\forCoding\\Itransaction InternTasks\\MovieStore\\wwwroot\\js\\trailer.js",
+      "PackagePath": "staticwebassets\\js\\trailer.js"
+    },
+    {
+      "Id": "E:\\forCoding\\Itransaction InternTasks\\MovieStore\\wwwroot\\js\\vendor\\jszip.min.js",
+      "PackagePath": "staticwebassets\\js\\vendor\\jszip.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.MovieStore.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.MovieStore.props",
+      "PackagePath": "build\\MovieStore.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.MovieStore.props",
+      "PackagePath": "buildMultiTargeting\\MovieStore.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.MovieStore.props",
+      "PackagePath": "buildTransitive\\MovieStore.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>MovieStore</title>
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<header class="toolbar">
+  <label>Language
+    <select id="lang-select">
+      <option value="en">English</option>
+      <option value="de">Deutsch</option>
+      <option value="uk">Українська</option>
+    </select>
+  </label>
+
+  <label>Seed
+    <input id="seed-input" type="text" spellcheck="false">
+  </label>
+  <button id="random-seed-button" type="button">🎲 Random seed</button>
+
+  <label>Avg likes
+    <input id="likes-input" type="number" min="0" max="10" step="0.1" value="3">
+  </label>
+
+  <label>Avg reviews
+    <input id="reviews-input" type="number" min="0" max="10" step="0.1" value="2">
+  </label>
+
+  <div class="export-controls" id="export-controls">
+    <button id="export-page-button" type="button">↓ Export page</button>
+    <span id="export-status" class="export-status"></span>
+  </div>
+
+  <div class="view-toggle">
+    <button id="view-table-button" class="active" type="button">Table</button>
+    <button id="view-gallery-button" type="button">Gallery</button>
+  </div>
+</header>
+
+<main>
+  <p class="hint">Click a row or card to see reviews and play its trailer.</p>
+
+  <section id="table-section">
+    <table>
+      <thead>
+        <tr>
+          <th>#</th>
+          <th>Title</th>
+          <th>Actors</th>
+          <th>Year</th>
+          <th>Genre</th>
+          <th>Likes</th>
+          <th>Reviews</th>
+        </tr>
+      </thead>
+      <tbody id="movie-rows"></tbody>
+    </table>
+    <div class="pagination">
+      <button id="prev-page" type="button">Prev</button>
+      <span id="page-label">Page 1</span>
+      <button id="next-page" type="button">Next</button>
+    </div>
+  </section>
+
+  <section id="gallery-section" class="hidden">
+    <div id="gallery-view" class="gallery-grid"></div>
+    <div id="scroll-sentinel"></div>
+  </section>
+</main>
+
+<script src="js/vendor/jszip.min.js"></script>
+<script type="module" src="js/main.js"></script>
+</body>
+</html>
