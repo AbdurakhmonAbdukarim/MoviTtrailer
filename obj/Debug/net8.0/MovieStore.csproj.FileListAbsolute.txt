@@ -28,3 +28,4 @@ E:\forCoding\Itransaction InternTasks\MovieStore\obj\Debug\net8.0\MovieStore.gen
 E:\forCoding\Itransaction InternTasks\MovieStore\obj\Debug\net8.0\ref\MovieStore.dll
 E:\forCoding\Itransaction InternTasks\MovieStore\bin\Debug\net8.0\Data\locales.json
 E:\forCoding\Itransaction InternTasks\MovieStore\bin\Debug\net8.0\MovieStore.staticwebassets.runtime.json
+E:\forCoding\Itransaction InternTasks\MovieStore\obj\Debug\net8.0\MovieStore.sourcelink.json
